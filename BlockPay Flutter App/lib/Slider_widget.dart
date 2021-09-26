@@ -1,4 +1,4 @@
-import 'package:Blockpay/ss2.dart';
+import 'package:BlockMoney/ss2.dart';
 import 'package:flutter/material.dart';
 
 class SliderWidget extends StatefulWidget {
